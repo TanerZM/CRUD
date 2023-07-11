@@ -1,0 +1,13 @@
+# 10-07-2023    
+
+Wat ik vandaag heb gedaan 
+
+ - ik heb vandaaag gewerkt aan forulier van de database. niet veel gemaakt doordat het de 1ste dag was.
+
+# 11-07-2023
+
+wat heb ik vandaag gedaan
+
+ - ik heb van CRUD de letters C en R gemaakt. we hebben een tabel gemaakt/gekopieerd.
+ we hebben ook de spellingsfouten die ik gam gemaakt verbeterd, waardoor de website niet ging crashen. 
+ plan voor morgen gemaakt om de tabel te kunnen editen.

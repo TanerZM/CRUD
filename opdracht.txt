@@ -1,0 +1,15 @@
+maak een crud applicatie. Het is voor een basketball team. Dit is de volgende info die ik in je tabel wil tegenkomen
+
+- ID
+- Naam 
+- Achternaam 
+- Email 
+- Telefoon nummer 
+- Rugnummer
+- Positie
+- Leeftijd 
+
+Deze zal jij natuurlijk geordend moeten laten zien voor de gebruiker van de tabel. 
+Ik wil zoals elke crud zien dat ik nieuwe leden kan toevoegen, verwijderen, en ook aanpassen bijvoorbeeld als ze van positie verandere. 
+
+Geef de tabel een moderne look ik wil geen osrs goofy ass design zien!
